@@ -27,7 +27,9 @@ use these:
 * npm cache clean --force
 
 * public and src both are important src more important
-
+* npx create-react-app my-app
+* cd my-app
+* npm start
 
 
 
